@@ -1,0 +1,226 @@
+fileFormatVersion: 2
+guid: b86c837862fe9f54f89cabc2c118f76d
+ModelImporter:
+  serializedVersion: 26
+  internalIDToNameTable:
+  - first:
+      74: -3263474092080947770
+    second: right_arm|ObjObject.001Action
+  - first:
+      74: -7498606811423672583
+    second: right_arm|ObjObject.002Action
+  - first:
+      74: -4289085027214674845
+    second: right_arm|ObjObject.003Action
+  - first:
+      74: -6200929174503543567
+    second: right_arm|ObjObject.004Action
+  - first:
+      74: -6401571536905555041
+    second: right_arm|ObjObject.005Action
+  - first:
+      74: 7299721223182111731
+    second: right_arm|ObjObject.006Action
+  - first:
+      74: -3036841640196025150
+    second: right_arm|ObjObjectAction
+  - first:
+      74: 3699443516927445793
+    second: left_arm|ObjObject.001Action
+  - first:
+      74: 6003858849900310033
+    second: left_arm|ObjObject.002Action
+  - first:
+      74: -812331944414676213
+    second: left_arm|ObjObject.003Action
+  - first:
+      74: -8678082001422393496
+    second: left_arm|ObjObject.004Action
+  - first:
+      74: -8639631789419114760
+    second: left_arm|ObjObject.005Action
+  - first:
+      74: -8710922153985572760
+    second: left_arm|ObjObject.006Action
+  - first:
+      74: -3195732599120656938
+    second: left_arm|ObjObjectAction
+  - first:
+      74: 7454891533957895953
+    second: right_leg|ObjObject.001Action
+  - first:
+      74: -7801732127436089921
+    second: right_leg|ObjObject.002Action
+  - first:
+      74: -1358127573063474801
+    second: right_leg|ObjObject.003Action
+  - first:
+      74: 2549561026245773499
+    second: right_leg|ObjObject.004Action
+  - first:
+      74: 3165255934684077216
+    second: right_leg|ObjObject.005Action
+  - first:
+      74: -7670889590644334073
+    second: right_leg|ObjObject.006Action
+  - first:
+      74: 6913800700827872384
+    second: right_leg|ObjObjectAction
+  - first:
+      74: 6112134896509021648
+    second: left_leg|ObjObject.001Action
+  - first:
+      74: 8646370096220561221
+    second: left_leg|ObjObject.002Action
+  - first:
+      74: -338781383047305771
+    second: left_leg|ObjObject.003Action
+  - first:
+      74: -4658555931997003883
+    second: left_leg|ObjObject.004Action
+  - first:
+      74: -6879136432071049849
+    second: left_leg|ObjObject.005Action
+  - first:
+      74: 4700026584828897959
+    second: left_leg|ObjObject.006Action
+  - first:
+      74: 2416500816588697424
+    second: left_leg|ObjObjectAction
+  - first:
+      74: -3069206430294206747
+    second: torso|ObjObject.001Action
+  - first:
+      74: -7344844197835393795
+    second: torso|ObjObject.002Action
+  - first:
+      74: 577089360786097161
+    second: torso|ObjObject.003Action
+  - first:
+      74: -4941132595536289233
+    second: torso|ObjObject.004Action
+  - first:
+      74: -3105147097208016589
+    second: torso|ObjObject.005Action
+  - first:
+      74: 1421756420518400145
+    second: torso|ObjObject.006Action
+  - first:
+      74: -424305750875419614
+    second: torso|ObjObjectAction
+  - first:
+      74: -8055117530558552
+    second: head|ObjObject.001Action
+  - first:
+      74: -2370088646505874825
+    second: head|ObjObject.002Action
+  - first:
+      74: 6550969586649292407
+    second: head|ObjObject.003Action
+  - first:
+      74: 2157629626479609662
+    second: head|ObjObject.004Action
+  - first:
+      74: 1441282521686192413
+    second: head|ObjObject.005Action
+  - first:
+      74: -1366699336222670487
+    second: head|ObjObject.006Action
+  - first:
+      74: -4415760636419791076
+    second: head|ObjObjectAction
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette
+    second: {fileID: 2100000, guid: 5b4174ca37b89774d85150810727952d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
